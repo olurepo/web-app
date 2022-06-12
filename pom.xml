@@ -95,16 +95,16 @@
 	
 	<distributionManagement>
 	    <repository>
-	      <id>nexus</id>
-	      <name>ACADA Learning Releases Nexus Repository</name>
-	      <url>http://172.31.94.25:8081/repository/UBA-release/</url>
-	    </repository>
-	    
-	    <snapshotRepository>
-	      <id>nexus</id>
-	      <name>ACADA Learning Snapshot Nexus Repository </name>
-	      <url>http://172.31.94.25:8081/repository/UBA-Snapshot/</url>
-	    </snapshotRepository>
+              <id>nexus</id>
+              <name>ACADA Learning Releases Nexus Repository named as PayPal</name>
+              <url>http://172.31.86.79:8081/repository/paypal-release/</url>
+            </repository>
+
+            <snapshotRepository>
+              <id>nexus</id>
+              <name>ACADA Learning Snapshot Nexus Repository named as PayPal</name>
+              <url>http://172.31.86.79:8081/repository/paypal-snapshot/</url>
+            </snapshotRepository>
 	    
 	</distributionManagement>
 	
