@@ -13,7 +13,7 @@
 <h1 align="center">We are developing and supporting quality Software Solutions to millions of clients.
 	We offer Training for DevOps with Linux and Cloud equipping IT Engineers for best performance. God Loves you.</h1>
 	
-<h2> Everyone in the cohort wiil be hired </h2>
+<h2 align="center"> Everyone in the cohort wiil be hired </h2>
 	
 <hr>
 <br>
