@@ -11,7 +11,10 @@
 <body>
 <h1 align="center">Welcome to Acada Learning, Calgary, Canada Office.</h1>
 <h1 align="center">We are developing and supporting quality Software Solutions to millions of clients.
-	We offer Training for DevOps with Linux and Cloud equipping IT Engineers for best performance. God Loves you. Everyone in the cohort wiil be hired</h1>
+	We offer Training for DevOps with Linux and Cloud equipping IT Engineers for best performance. God Loves you.</h1>
+	
+<h2> Everyone in the cohort wiil be hired </h2>
+	
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
