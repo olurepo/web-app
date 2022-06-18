@@ -29,6 +29,10 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <%out.println("Server IP Address :: "+ip);%>
 		
 </h1>
+
+<div style="text-align: center;">
+	<img src="images/build-release.jpeg">
+</div>
 	
 <hr>
 <div style="text-align: center;">
