@@ -15,6 +15,11 @@
 	
 <h2 align="center"> Everyone in the cohort wiil be hired </h2>
 	
+<br>
+<div align="center">
+	<img src="images/build-release.jpeg" alt="Build-Release Workflow">
+</div>
+	
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
@@ -29,10 +34,6 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <%out.println("Server IP Address :: "+ip);%>
 		
 </h1>
-
-<div style="text-align: center;">
-	<img src="images/build-release.jpeg">
-</div>
 	
 <hr>
 <div style="text-align: center;">
