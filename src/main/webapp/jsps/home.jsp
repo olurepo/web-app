@@ -17,7 +17,7 @@
 	
 <br>
 <div align="center">
-	<img src="images/build-release.jpeg" alt="Build-Release Workflow">
+	<img src="images/build-release.png" alt="Build-Release Workflow">
 </div>
 	
 <hr>
