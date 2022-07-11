@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://172.31.92.99:7000/</sonar.host.url>
+		<sonar.host.url>http://172.31.31.106:5000/</sonar.host.url>
 		<sonar.login>admin</sonar.login>
 		<sonar.password>admin</sonar.password>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -96,14 +96,14 @@
 	<distributionManagement>
 	    <repository>
               <id>nexus</id>
-              <name>ACADA Learning Releases Nexus Repository named as PayPal</name>
-              <url>http://172.31.86.79:8081/repository/paypal-release/</url>
+              <name>ACADA Learning Releases Nexus Repository named as UBA</name>
+              <url>http://172.31.31.106:8081/repository/uba-release/</url>
             </repository>
 
             <snapshotRepository>
               <id>nexus</id>
-              <name>ACADA Learning Snapshot Nexus Repository named as PayPal</name>
-              <url>http://172.31.86.79:8081/repository/paypal-snapshot/</url>
+              <name>ACADA Learning Snapshot Nexus Repository named as UBA</name>
+              <url>http://172.31.31.106:8081/repository/uba-snapshot/</url>
             </snapshotRepository>
 	    
 	</distributionManagement>
